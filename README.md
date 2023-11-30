@@ -14,7 +14,7 @@ A integração da API Gateway com funções Lambda proporciona uma arquitetura s
 
 Os dados extraídos são armazenados de forma segura no Amazon S3, oferecendo durabilidade, escalabilidade e gerenciamento simplificado. Isso assegura que as informações estejam prontamente disponíveis para as fases subsequentes do pipeline de dados.
 
-**4. Event Bridge e Lambda para ETL
+**4. Event Bridge e Lambda para ETL**
 
 O AWS Event Bridge é empregado para orquestrar e automatizar a execução das tarefas de ETL. As funções Lambda são acionadas em resposta a eventos específicos, facilitando a transformação eficiente dos dados.
 
