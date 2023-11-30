@@ -1,9 +1,9 @@
 ## Chatbot Telegram ETL com AWS em Python
 Este repositório contém um conjunto abrangente de códigos em Python para facilitar a extração, transformação e carga (ETL) de informações de um chatbot no Telegram, utilizando serviços da Amazon Web Services (AWS). O processo é projetado para ser eficiente e escalável, incorporando diversas etapas fundamentais.
 
-**Funcionalidades Principais**
+## **Funcionalidades Principais**
 
-1. Ingestão de Dados
+**1. Ingestão de Dados**
 Os scripts de ingestão oferecem meios eficazes para extrair dados do chatbot no Telegram. Essa etapa é essencial para manter a integridade e a atualidade das informações.
 
 **2. API Gateway e Lambda**
